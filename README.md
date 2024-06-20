@@ -8,4 +8,4 @@
 
 Se você quiser contribuir com este projeto, envie um PR diretamente em vez de criar um problema.
 
-![Imagem](./assets/imagem.jpg)
+![Imagem](./assets/banner.png)
